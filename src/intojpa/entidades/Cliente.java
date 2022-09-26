@@ -18,6 +18,8 @@ public class Cliente implements Serializable {
     private String domicilio;
     private String telefono;
     private String atributo1;
+    private String julian;
+    private String puppato;
     public Cliente() {
     }
 
