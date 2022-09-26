@@ -17,7 +17,7 @@ public class Cliente implements Serializable {
     private String apellido;
     private String domicilio;
     private String telefono;
-
+    private String atributo1;
     public Cliente() {
     }
 
